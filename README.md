@@ -8,7 +8,7 @@ It prints a simple message — **"Hello, World!"** — which marks the start of 
 To write, compile, and run a simple C program successfully.
 
 ##  Source Code
-```c
+``c
 #include <stdio.h>
 
 int main() {
